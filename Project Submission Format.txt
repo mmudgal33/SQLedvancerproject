@@ -1,0 +1,6 @@
+Project Submission Format
+You need to submit a zip file containing 10 csv files each having the output (data) for each question. The csv files should be named as sol_question.csv, example for 1st question your submission file should be named as sol_1.csv
+
+and it should contain the output data for question 1. All the the 10 files are to be compressed into 'single zip file' which should be named as Your_name_project and then submit the zip file.
+
+Also submit a word file containing the queries written for question within the zip file.
